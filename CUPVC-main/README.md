@@ -8,15 +8,15 @@ Flowchart of CUPVC
 
 - Training phase
 
-![image](https://github.com/WSYcurry/DebtVC/blob/main/DebtVC2022/DebtVC_Overview_training.bmp)
+![image](https://github.com/DebtVC2022/CUPVC2022/blob/main/CUPVC-main/CUPVC2022/CUPVC_Overview_training.bmp)
 
 - Conversion phase
 
-![image](https://github.com/WSYcurry/DebtVC/blob/main/DebtVC2022/DebtVC_Overview_conversion.bmp)
+![image](https://github.com/DebtVC2022/CUPVC2022/blob/main/CUPVC-main/CUPVC2022/CUPVC_Overview_conversion.bmp)
 
 Design motivation of CUPVC forge module
 
-![image](https://github.com/WSYcurry/DebtVC/blob/main/DebtVC2022/forge_function_with_arrow.bmp)
+![image](https://github.com/DebtVC2022/CUPVC2022/blob/main/CUPVC-main/CUPVC2022/forge_function_with_arrow_5.bmp)
 
 If you find this work useful and use it in your research, please consider citing our paper.
 
