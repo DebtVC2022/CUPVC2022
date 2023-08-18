@@ -56,8 +56,7 @@ Please use the scripts to prepare your own data for training.
 
 - If you find our work helpful, please consider citing the following paper:
 
-```
-@ARTICLE{10174656,
+> @ARTICLE{10174656,
   author={Liu, Ben and Wang, Jun and Yu, Guanyuan and Chen, Shaolei},
   journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
   title={CUPVC: A Constraint-Based Unsupervised Prosody Transfer for Improving Telephone Banking Services}, 
@@ -67,4 +66,3 @@ Please use the scripts to prepare your own data for training.
   pages={2695-2706},
   doi={10.1109/TASLP.2023.3293042}
   }
-```
